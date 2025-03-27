@@ -1,0 +1,11 @@
+res://scenes/platform.tscn
+res://scenes/main.tscn
+res://scenes/character.tscn
+res://scenes/coin.tscn
+res://scripts/coin.gd
+res://scripts/killzone.gd
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
+res://scripts/slime.gd
+res://scripts/character.gd
+res://scripts/game_manager.gd
